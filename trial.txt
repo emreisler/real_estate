@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+key=nothing"
+=======
+key=deleted"
+>>>>>>> f4c9ac3... deleted
